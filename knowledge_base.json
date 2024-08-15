@@ -1,0 +1,393 @@
+
+{
+
+    "questions": [
+  
+      {
+  
+        "question": "",
+  
+        "answer": "exit"
+  
+      },
+  
+      {
+  
+        "question": "Hello!",
+  
+        "answer": "Hey there!"
+  
+      },
+  
+      {
+  
+        "question": "sensor",
+  
+        "answer": "Replaced sensor"
+  
+      },
+  
+      {
+  
+        "question": "wearable",
+  
+        "answer": "Replaced Wearable"
+  
+      },
+  
+      {
+  
+        "question": "follow up",
+  
+        "answer": "Updated on     Yuri Ppo"
+  
+      },
+  
+      {
+  
+        "question": "absent",
+  
+        "answer": "Tried to contact PT with no success left a VM to contact us back SR completed with no replacement"
+  
+      },
+  
+      {
+  
+        "question": "ab",
+  
+        "answer": "Tried to contact PT with no success left a VM to contact us back SR completed with no replacement"
+  
+      },
+  
+      {
+  
+        "question": "poor patch adhesion",
+  
+        "answer": "Educated PT on the new Dexcom Guidelines, Sent Article, Sent Goodwill Sensor"
+  
+      },
+  
+      {
+  
+        "question": "sensor fell off",
+  
+        "answer": "Educated PT on the new Dexcom Guidelines, Sent Article, Sent Goodwill Sensor"
+  
+      },
+  
+      {
+  
+        "question": "pairing",
+  
+        "answer": "Performed troubleshooting and the issue was resolved"
+  
+      },
+  
+      {
+  
+        "question": "password reset",
+  
+        "answer": "Educated PT on Password reset"
+  
+      },
+  
+      {
+  
+        "question": "pass",
+  
+        "answer": "Educated PT on Password reset"
+  
+      },
+  
+      {
+  
+        "question": "App",
+  
+        "answer": "Educated PT on installing App"
+  
+      },
+  
+      {
+  
+        "question": "no pair",
+  
+        "answer": "Performed troubleshooting and the TX did not pair so replaced the TX and sensor lost during the issue"
+  
+      },
+  
+      {
+  
+        "question": "update",
+  
+        "answer": "Updated on  Yuri Ppo"
+  
+      },
+  
+      {
+  
+        "question": "TSQs doc",
+  
+        "answer": "1. Since some required TSQs are not available in OSC for some product lines selected, kindly document these in D/R field instead:"
+  
+      },
+  
+      {
+  
+        "question": "    1. TSQ 212.2 \"Describe the damage\"",
+  
+        "answer": "    2. TSQ 212.3 \"Were there contributing factors to the damage?\" (can state Yes, No, Unable/Unwilling to answer)"
+  
+      },
+  
+      {
+  
+        "question": "TSQ",
+  
+        "answer": "Please disregard any unrelated TSQs"
+  
+      },
+  
+      {
+  
+        "question": "we",
+  
+        "answer": "replaced wearable"
+  
+      },
+  
+      {
+  
+        "question": "web request",
+  
+        "answer": "Contacted PT and resolved the issue on   Yuri Ppo"
+  
+      },
+  
+      {
+  
+        "question": "r",
+  
+        "answer": "Reviewed"
+  
+      },
+  
+      {
+  
+        "question": "poor",
+  
+        "answer": "Educated PT on the new Dexcom Guidelines, Sent Article, Sent Goodwill Sensor"
+  
+      },
+  
+      {
+  
+        "question": "troubleshooting wearable",
+  
+        "answer": "Performed troubleshooting and the TX did not pair so replaced wearable lost during the issue"
+  
+      },
+  
+      {
+  
+        "question": "receiver damaged",
+  
+        "answer": "1. Since some required TSQs are not available in OSC for some product lines selected, I'm kindly documenting these in D/R field instead:"
+  
+      },
+  
+      {
+  
+        "question": "    1. TSQ 212.2 \"Describe the damage\" - The button of the receiver did not work properly it took 6, 7 tries to change the screen many times it didn't even work",
+  
+        "answer": "    2. TSQ 212.3 \"Were there contributing factors to the damage?\" (can state Yes, No, Unable/Unwilling to answer) Unable/Unwilling to answer"
+  
+      },
+  
+      {
+  
+        "question": "complete follow",
+  
+        "answer": "Contacted PT and resolved the issue on   Yuri Ppo"
+  
+      },
+  
+      {
+  
+        "question": "up",
+  
+        "answer": "updated on   Yuri Ppo"
+  
+      },
+  
+      {
+  
+        "question": "interview",
+  
+        "answer": "Contacted PT and resolved the issue on   Yuri Ppo"
+  
+      },
+  
+      {
+  
+        "question": "TROUBLESHOOTING WERA",
+  
+        "answer": "Performed troubleshooting and the TX did not pair so replaced wearable lost during the issue"
+  
+      },
+  
+      {
+  
+        "question": "POOR",
+  
+        "answer": "Educated PT on the new Dexcom Guidelines, Sent Article, Sent Goodwill Sensor"
+  
+      },
+  
+      {
+  
+        "question": "primary bill",
+  
+        "answer": "Sensor not able to be booked for PT due to Unable to get primary bill-to for this customer:5719833 advised PT to contact CS Team to help resolve the error "
+  
+      },
+  
+      {
+  
+        "question": "email",
+  
+        "answer": "Tried to contact PT with no success left a VM and sent a courtesy email to contact us back "
+  
+      },
+  
+      {
+  
+        "question": "no replacement",
+  
+        "answer": "SR completed with no replacement"
+  
+      },
+  
+      {
+  
+        "question": "goodwill",
+  
+        "answer": "sent a goodwill sensor"
+  
+      },
+  
+      {
+  
+        "question": "courtesy",
+  
+        "answer": "sent a goodwill sensor"
+  
+      },
+  
+      {
+  
+        "question": "un",
+  
+        "answer": "Unable/Unwilling to Answer"
+  
+      },
+  
+      {
+  
+        "question": "tried",
+  
+        "answer": "Tried to contact PT with no Success will try again later"
+  
+      },
+  
+      {
+  
+        "question": "sr comp",
+  
+        "answer": "SR completed with no replacement"
+  
+      },
+  
+      {
+  
+        "question": "install app",
+  
+        "answer": "Educated PT on installing App"
+  
+      },
+  
+      {
+  
+        "question": "SESNOR",
+  
+        "answer": "replaced sensor"
+  
+      },
+  
+      {
+  
+        "question": "se",
+  
+        "answer": "Replaced sensor"
+  
+      },
+  
+      {
+  
+        "question": "signature",
+  
+        "answer": "Replaced Wearable sent via regular mail signature required "
+  
+      },
+  
+      {
+  
+        "question": "sig",
+  
+        "answer": "Replaced Wearable sent via regular mail signature required "
+  
+      },
+  
+      {
+  
+        "question": "CONTACT",
+  
+        "answer": "Contacted PT and resolved the issue on   Yuri Ppo"
+  
+      },
+  
+      {
+  
+        "question": "revi",
+  
+        "answer": "reviewed"
+  
+      },
+  
+      {
+  
+        "question": "WEB REQUES",
+  
+        "answer": "Contacted PT and resolved the issue on   Yuri Ppo"
+  
+      },
+  
+      {
+  
+        "question": "tsqs",
+  
+        "answer": "Please ignore any unrelated TSQs to this code"
+  
+      },
+  
+      {
+  
+        "question": "clarity",
+  
+        "answer": "Performed troubleshooting and the issue has been resolved"
+  
+      }
+  
+    ]
+  
+  }
+  
